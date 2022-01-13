@@ -2,8 +2,7 @@
 
 This is a solution to the Knight's Tour problem. Here the knight must move across all squares of a chess board without being allowed to move to the same square more than once.  
 
-The project was inspired by several puzzles from the game Professor Layton and the Diabolical Box:
-https://layton.fandom.com/wiki/Puzzle:The_Knight%27s_Tour_4  
+The project was inspired by [several puzzles](https://layton.fandom.com/wiki/Puzzle:The_Knight%27s_Tour_4) from the game Professor Layton and the Diabolical Box:
 
 The chessboard length and width can be adjusted arbitrarily.   
 
